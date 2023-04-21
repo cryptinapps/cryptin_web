@@ -5550,6 +5550,9 @@ url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
+vector_graphics
+vector_graphics_codec
+vector_graphics_compiler
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -12730,7 +12733,7 @@ image
 
 The MIT License
 
-Copyright (c) 2013-2021 Brendan Duncan.
+Copyright (c) 2013-2022 Brendan Duncan.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -14946,7 +14949,6 @@ package_info_plus_platform_interface
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-path_drawing
 path_parsing
 
 Copyright (c) 2018 Dan Field
